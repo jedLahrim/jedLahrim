@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/power_exotic" target="blank"><img src="https://img.shields.io/twitter/follow/power_exotic?logo=twitter&style=for-the-badge" alt="power_exotic" /></a> </p>
 
-- Boostifly LTD [Senlife](https://play.google.com/store/apps/details?id=com.senlife.app&hl=en&gl=US)
+- Boostifly LTD
 
 - 👯 I’m looking to collaborate on **new big projects**
 
